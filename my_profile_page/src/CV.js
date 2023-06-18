@@ -1,6 +1,6 @@
 export default function CV() {
     return (
-        <div>
+        <div className="cv">
             <h2>CV</h2>
         </div>
     )

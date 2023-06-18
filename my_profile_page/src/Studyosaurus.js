@@ -1,6 +1,6 @@
 export default function Studyosaurus() {
     return (
-        <div>
+        <div className="studyosaurus">
             <h3>Studyosaurus</h3>
         </div>
     )
