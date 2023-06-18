@@ -1,7 +1,7 @@
 export default function MineCleaner() {
     return (
-        <div className="minecleaner">
+        <button className="minecleaner">
             <h3>Mine Cleaner, under construction...</h3>
-        </div>
+        </button>
     )
 }

@@ -1,7 +1,7 @@
 export default function PersonalPantry() {
     return (
-        <div className="personalpantry">
+        <button className="personalpantry">
             <h3>Personal Pantry, under construction...</h3>
-        </div>
+        </button>
     )
 }
