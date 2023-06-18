@@ -1,7 +1,7 @@
 export default function WiseWalletKitchen() {
     return (
-        <div>
+        <button className="wisewalletkitchen">
             <h3>WiseWalletKitchen</h3>
-        </div>
+        </button>
     )
 }

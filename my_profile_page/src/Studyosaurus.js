@@ -1,7 +1,7 @@
 export default function Studyosaurus() {
     return (
-        <div>
+        <button className="studyosaurus">
             <h3>Studyosaurus</h3>
-        </div>
+        </button>
     )
 }
